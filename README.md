@@ -1,0 +1,1 @@
+# cursor-ai-tools-setup
